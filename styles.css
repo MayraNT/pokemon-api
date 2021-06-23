@@ -10,7 +10,7 @@ body {
 
 #battle-container {
   height: 100vh;
-  background-image: url(./battleground.jpg);
+  background-image: url(./images/battleground.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
