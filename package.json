@@ -1,0 +1,22 @@
+{
+  "name": "pokemon-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayraNT/pokemon-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayraNT/pokemon-api/issues"
+  },
+  "homepage": "https://github.com/MayraNT/pokemon-api#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
